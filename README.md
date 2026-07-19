@@ -62,7 +62,7 @@ AI-Data-Classification/
 
 ---
 
-# ▶ Installation
+#  Installation
 
 Clone the repository:
 
@@ -132,8 +132,7 @@ Evaluation Metric:
 
 ## Source Code
 
-> 
-![Source Code](screenshots/code.png)
+> ![Source Code](screenshots/code.png)
 
 ```
 screenshots/code.png
@@ -161,7 +160,7 @@ screenshots/prediction.png
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 Through this project I learned:
 
@@ -176,7 +175,7 @@ Through this project I learned:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - GUI using Tkinter
 - Multiple Classification Algorithms
@@ -187,7 +186,7 @@ Through this project I learned:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Zartaj Nadeem**
 
@@ -197,6 +196,6 @@ DecodeLabs (Batch 2026)
 
 ---
 
-# ⭐ Acknowledgements
+#  Acknowledgements
 
 Special thanks to **DecodeLabs** for providing this project as part of the Artificial Intelligence Internship Program.
