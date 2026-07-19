@@ -1,6 +1,6 @@
-# 🌸 Data Classification Using AI
+#  Data Classification Using AI
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed as **Project 2** during the **DecodeLabs Artificial Intelligence Internship (Batch 2026)**.
 
@@ -10,7 +10,7 @@ The project demonstrates the complete machine learning workflow, including data 
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Load the Iris dataset
 - Display dataset information
@@ -24,7 +24,7 @@ The project demonstrates the complete machine learning workflow, including data 
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python 3
 - Pandas
@@ -32,7 +32,7 @@ The project demonstrates the complete machine learning workflow, including data 
 
 ---
 
-# 📚 Machine Learning Concepts
+#  Machine Learning Concepts
 
 This project covers the following AI concepts:
 
@@ -46,7 +46,7 @@ This project covers the following AI concepts:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 AI-Data-Classification/
@@ -62,12 +62,12 @@ AI-Data-Classification/
 
 ---
 
-# ▶️ Installation
+# ▶ Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Data-Classification.git
+git clone https://github.com/zari12-dev/AI-Data-Classification.git
 ```
 
 Go to the project directory:
@@ -90,7 +90,7 @@ python main.py
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 This project uses the **Iris Dataset**, which is provided by the **Scikit-learn** library.
 
@@ -115,7 +115,7 @@ Classes:
 
 ---
 
-# 📈 Model Performance
+#  Model Performance
 
 Algorithm Used:
 
@@ -128,11 +128,12 @@ Evaluation Metric:
 
 ---
 
-# 📷 Screenshots
+#  Screenshots
 
 ## Source Code
 
-> Add screenshot here.
+> 
+![Source Code](screenshots/code.png)
 
 ```
 screenshots/code.png
@@ -142,7 +143,7 @@ screenshots/code.png
 
 ## Program Output
 
-> Add screenshot here.
+> ![Program output](screenshots/output.png)
 
 ```
 screenshots/output.png
@@ -152,7 +153,7 @@ screenshots/output.png
 
 ## Prediction Result
 
-> Add screenshot here.
+>![Prediction](screenshots/prediction.png)
 
 ```
 screenshots/prediction.png
